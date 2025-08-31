@@ -1,4 +1,4 @@
-# Adding Users and Remote Access Lab
+# Adding Users and Remote Access 
 
 ## Summary
 I created multiple users in Active Directory, applied group policies to manage locked accounts, verified the policies, unlocked accounts, and reset passwords as needed.  
